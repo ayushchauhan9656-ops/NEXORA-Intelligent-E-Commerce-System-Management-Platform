@@ -1,1 +1,1 @@
-# NEXORA-Intelligent-E-Commerce-System-Management-Platform
+# NEXORA-E-Commerce-System-Management-Platform
